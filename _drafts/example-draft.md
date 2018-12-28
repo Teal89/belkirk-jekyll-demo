@@ -1,8 +1,8 @@
 ---
-title: Example Draft
+title: This is a test title I made today... look!
 layout: post
 date: 2018-01-19 00:00:00 +0000
-sub_heading: ''
+sub_heading: I wonder how it will show.
 tags: []
 related_posts: []
 

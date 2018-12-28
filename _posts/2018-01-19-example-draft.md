@@ -9,6 +9,6 @@ related_posts: []
 ---
 ## This is a test heading I made today... look!
 
-Check this out. I'm adding content and there's a image file below. Hopefully this shows as a commit. 
+Check this out. I'm adding content and there's a image file below. Hopefully this shows as a commit. This check out. 
 
 ![](/uploads/2018/02/17/building.jpg)

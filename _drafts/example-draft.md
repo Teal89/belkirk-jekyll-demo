@@ -9,8 +9,6 @@ related_posts: []
 ---
 ## What are draft posts?
 
-This is an example of a draft post. Draft posts aren't included when publishing your site.
-
-This is great for authoring work in progress content, or hiding content that shouldn't be available at the current time.
+Check this out. I'm adding content and there's a image file below. Hopefully this shows as a commit. 
 
 ![](/uploads/2018/02/17/building.jpg)

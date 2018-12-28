@@ -7,7 +7,7 @@ tags: []
 related_posts: []
 
 ---
-## What are draft posts?
+## This is a test heading I made today... look!
 
 Check this out. I'm adding content and there's a image file below. Hopefully this shows as a commit. 
 
